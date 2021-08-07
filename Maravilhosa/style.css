@@ -1,0 +1,383 @@
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    margin: 2px;
+}
+
+/* NAVBAR */
+
+.navbar{
+    background-color: #C083B9;
+    width: 100%;
+    height: 85px;
+}
+
+.navbar_logotipo {
+    text-align: center;
+    padding: 5px;
+}
+
+/* -------------------------------------------------------------------------------- */
+
+
+/* HEADER */
+
+.header{
+    background-image: url("img/backgroud_header_01.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 80vh;
+    height: 500px;
+    color: #ffffff;
+}
+
+.container_header{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    padding: 30px;
+}
+
+.header_maravilhosa_img{
+    width: 100%;
+    height: 380px;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+.header_titulo{
+    width: 30%;
+    text-transform: uppercase;
+    margin: 45px 0px 10px 70px ;
+    font-size: 20px
+}
+
+
+/* --- BOTAO --- */
+  
+.header_button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 40px;
+    background: #7F479B;
+    border-radius: 5px;
+    color: #ffffff;
+    text-decoration: none;
+    list-style: none;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    margin-top: 40px;
+}
+
+.header_button:hover {
+    background-color: #462755;
+    color: #ffffff;
+    transition: background-color .5s;
+}
+
+/*********** HEADER VIDEO  *********/
+
+.header_maravilhosa_imagem{
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+}
+
+
+/* SECAO Maravilhosa */
+
+.maravilhosa{
+    background-color: #FAD8E5;
+    align-items: center;
+    width: 100%;
+    height: 750px;
+}
+
+.container_maravilhosa{
+    text-align: center;
+    padding: 0 5%;
+}
+
+.maravilhosa_titulo{
+    color: #EA4C89;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 40px;
+}
+
+.maravilhosa_boxBorder{
+    border: 1px solid #674582;
+    margin: 42px;
+}
+
+.boxBorder_texto{
+    margin: 30px;
+    color: #462755;
+    text-align: center;
+}
+
+
+.suahistoria_titulo{
+    color: #462755;
+    padding-bottom: 10px;
+}
+
+.suahistoria_paragrafo{
+    padding-bottom: 10px;
+}
+
+
+.suahistoria_autora{
+    color: #462755;
+    font-weight: bold;
+}
+
+.container_suaHistoria{
+    display: flex;
+    color: #674582;
+    margin-left: 08%;
+    margin-right: 08%;
+}
+
+.suaHistoria_imagem{
+    width: 40%;
+}
+
+
+.suaHistoria_texto{
+    width: 100%;
+    margin-left: 40px;
+}
+
+/* AUTORA */
+
+.autora{
+    background-color: #b6dbf1d2;
+    align-items: center;
+    width: 100%;
+    height: 600px;
+    margin-top: 60px;
+    padding: 60px;
+}
+
+.autora_titulo{
+    text-align: center;
+    color: #EA4C89;
+    font-size: 32px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    padding: 30px;
+}
+
+.autora_sobre  {
+    display: flex;
+
+}
+
+.autora_imagem {
+    width: 20%;
+    border-radius: 50%;
+    margin-right: 35px;
+}
+
+/* SECAO Recado */
+
+.container_recado{
+    display: flex;
+}
+
+.icon{
+    width: 50%;
+    margin-top: 50px;
+}
+
+.form__exemplo{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+#textoInput{
+    width: 30%;
+    height: 100px;    
+}
+
+#nomeInput{
+    width: 30%;
+    height: 30px;
+}
+
+.texto__button {   
+    background-color: #7F479B;
+    color: #ffffff;
+    border: 0;
+    width: 10%;
+    font-weight: bold;
+    font-size: 16px;
+    transition: 0.3s;
+    cursor: pointer;
+    margin-top: 21px;
+    height: 40px;
+}
+
+.texto__button:hover {
+    background-color: #462755;
+    color: #ECDDF3;
+    transition: 0.3s;
+}
+
+.nova__linha{
+    color: rebeccapurple;
+    border: 1px dashed rebeccapurple;    
+    margin-top: 30px;
+    padding: 5px;
+    width: 50%;
+}
+
+.novo__nome{
+    font-weight: bold;
+    font-size: 10PX;
+    font-style: italic;
+}
+
+.novo__texto{
+    text-align: justify;
+    width: 90%;
+}
+
+
+/* FOOTER */
+
+
+.footer {
+    background: #EA4C89;
+    color: #F3F3F3;
+    
+}
+
+.footer__menu {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    margin: 10px 60px;
+    font-size: 1.4rem;
+    padding: 30px;
+}
+.footer__links {
+    display: block;
+    text-align: center;
+    list-style: none;
+}
+
+.footer__facebook {
+    display: flex;
+}
+
+.img-fb {
+    width: 20px;
+}
+
+.footer_cc {
+    background: #5B5E5E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+@media(max-width: 1240px){
+    .header_maravilhosa_img{
+        width: 90%;
+        height: 380px;
+        margin-left: 20px;
+    }
+     
+}
+
+@media(max-width: 760px){
+    .container_header{
+        flex-direction: column;
+        
+    }
+
+    .header_titulo{
+        width: 90%;
+        margin: 5px 10px 5px 10px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .maravilhosa{
+        margin-top: 200px;
+        height: 100%;
+        padding-bottom: 25px;
+    }
+
+    .container_suaHistoria{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: justify;
+        
+    }
+
+    .suaHistoria_imagem{
+        width: 90%;
+        margin-bottom: 30px;
+    }
+
+    .container_recado{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+   .form__exemplo{
+       margin-left: 10px;
+       padding: 20px;
+   }
+
+    
+    #textoInput{
+        width: 80%;
+        height: 100px;    
+    }
+    
+    #nomeInput{
+        width: 80%;
+        height: 30px;
+    }
+
+    .texto__button{
+        width: 30%;
+    }
+}
+
+@media(max-width: 500px){
+    .header_maravilhosa_img{
+        height: 220px;        
+    }
+
+    .maravilhosa{
+        margin-top: 100px;
+        
+    }
+}
