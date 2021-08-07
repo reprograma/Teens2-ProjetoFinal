@@ -2,8 +2,6 @@
 # Turma Teens 2  Semana 6 Front-end 💜
 ## Aula de Projeto Final  :octocat:
 
-[Slides da aula(ainda sem o link)]()  :sparkles:
-
 ### link do projeto 
 [Página principal M de maravilhosas](https://reprograma-teens2-maravilhosas.netlify.app/)
 
