@@ -2,7 +2,7 @@
 # Turma Teens 2  Semana 6 Front-end 💜
 ## Aula de Projeto Final  :octocat:
 
-[Slides da aula]()  :sparkles:
+[Slides da aula(ainda sem o link)]()  :sparkles:
 
 ### link do projeto 
 [Página principal M de maravilhosas](https://reprograma-teens2-maravilhosas.netlify.app/)
@@ -13,7 +13,7 @@
 * [Tags HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
 * [Treinando display Flex com jogo do sapo](https://flexboxfroggy.com/#pt-br)
 * [Guia Flex Box](https://origamid.com/projetos/flexbox-guia-completo/)
-* [Guia como subir o código Netlify](https://www.youtube.com/watch?v=gbHUjHxUNDE)
+* [Guia como subir o código Netlify(apartir do minuto 6 do vídeo](https://www.youtube.com/watch?v=wpbo183GXIA)
 * [Introdução ao DOM ](https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model/Introduction)
 
 ### Objetivos da aula (Domingo e Quarta)  :metal:
@@ -38,6 +38,6 @@
 6. Tirar as redes sociais  da reprograma e linkar as redes socias da sua pessoa no Footer
 8. Ajustar e atualizar a sessão que fala sobre a maravilhosa com as informações dela
 9. Subir o projeto no Netlify e colocar na planilha e no classroom
-10. Atualizar o projeto pelo deploy do netlify caso precise e entrgá-lo até sexta 
+10. Atualizar o projeto pelo deploy do netlify caso precise e entrega-lo até sexta 
 11. BILHAR E APRESENTAR O PROJETO NO SÁBADOOOO :sparkles:
 
