@@ -41,3 +41,6 @@
 10. Atualizar o projeto pelo deploy do netlify caso precise e entrega-lo até sexta 
 11. BILHAR E APRESENTAR O PROJETO NO SÁBADOOOO :sparkles:
 
+### Links Importantes das entregas :rocket:
+* [Drive com Planilha com link do netlify e quem entregou](https://docs.google.com/spreadsheets/d/1Pjr4L9q57IRa9XqiyknwaXG9nO_SDWCkfVBO3zaTLak/edit?usp=sharing)
+* [Drive com a as fotos de cada maravilhosa e o nome dela](https://drive.google.com/drive/folders/11NJKENeMgT65bnw3aEJWxQyPnMP7yRLt?usp=sharing)
