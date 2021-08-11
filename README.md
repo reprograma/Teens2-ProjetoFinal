@@ -40,7 +40,7 @@
 11. BRILHAR E APRESENTAR O PROJETO NO SÁBADOOOO :sparkles:
 
   :rocket: Desafio JS: Apenas permitir a submissão do formulário se os inputs estiverem preenchidos.
-Caso o usuário tente submeter a postagem com o nome e a mensagem vazias colocar um alert pedindo pra ele preecher. 
+Caso o usuário tente submeter a postagem com o nome e a mensagem vazias colocar um alert pedindo pra ele preencher. 
 
 
 ### Links Importantes das entregas :rocket:
