@@ -37,7 +37,7 @@
 8. Ajustar e atualizar a sessão que fala sobre a maravilhosa com as informações dela
 9. Subir o projeto no Netlify e colocar na planilha e no classroom
 10. Atualizar o projeto pelo deploy do netlify caso precise e entrega-lo até sexta 
-11. BILHAR E APRESENTAR O PROJETO NO SÁBADOOOO :sparkles:
+11. BRILHAR E APRESENTAR O PROJETO NO SÁBADOOOO :sparkles:
 
   :rocket: Desafio JS: Apenas permitir a submissão do formulário se os inputs estiverem preenchidos.
 Caso o usuário tente submeter a postagem com o nome e a mensagem vazias colocar um alert pedindo pra ele preecher. 
