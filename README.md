@@ -30,8 +30,8 @@
 
 1. Pegar Base do projeto 
 1. Deixar bem belo com CSS e flex Box 
-3. Implemnetar com JS e DOM a seção de recados para a maravilhosa  
-4. A seção recado assim é obrigatória mas fiquem tranquilas que todo mundo se ajudando vai dar certo!
+3. Implementar com JS e DOM a seção de recados para a maravilhosa  
+4. A seção recado é obrigatória mas fiquem tranquilas que todo mundo se ajudando vai dar certo!
 5. Criar a sessão que fala sobre a autora(Deva sensacional que fez o site, V O C Ê <3 ) 
 6. Tirar as redes sociais  da reprograma e linkar as redes socias da sua pessoa no Footer
 8. Ajustar e atualizar a sessão que fala sobre a maravilhosa com as informações dela
